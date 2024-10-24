@@ -1,0 +1,30 @@
+[
+    {
+        "id": 8,
+        "nombre": "8",
+        "cantidad": 8,
+        "precio": "8",
+        "categoria": "8"
+    },
+    {
+        "id": 10,
+        "nombre": "0",
+        "cantidad": 0,
+        "precio": "0",
+        "categoria": "0"
+    },
+    {
+        "id": 9,
+        "nombre": "9",
+        "cantidad": 9,
+        "precio": "9",
+        "categoria": "9"
+    },
+    {
+        "id": 11,
+        "nombre": "5",
+        "cantidad": 5,
+        "precio": "5",
+        "categoria": "5"
+    }
+]
